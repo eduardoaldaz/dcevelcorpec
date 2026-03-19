@@ -3,13 +3,13 @@
     "nombre": "DcevelCorp EC",
     "logo": "images/logo.png",
     "whatsapp": "593412345678",
-    "email": "export@dcevelcorpec.com",
+    "email": "info@dcevelcorpec.com",
     "telefono": "+593 4 600 7000",
     "direccion": { "es": "Av. Francisco de Orellana, Guayaquil, Ecuador", "en": "Francisco de Orellana Ave, Guayaquil, Ecuador" },
     "redes": {
-      "facebook": "https://facebook.com/dcevelcorpec",
-      "instagram": "https://instagram.com/dcevelcorpec",
-      "linkedin": "https://linkedin.com/company/dcevelcorp"
+      "facebook": "https://facebook.com/",
+      "instagram": "https://instagram.com/",
+      "linkedin": "https://linkedin.com/company/"
     }
   },
   "hero": {
