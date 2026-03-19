@@ -39,8 +39,8 @@
     "lista": [
       {
         "nombre": { "es": "Banano Cavendish", "en": "Cavendish Banana" },
-        "imagen": "images/banana.png",
-        "emoji": "",
+        "imagen": "images/banana.jpg",
+        "emoji": "🍌",
         "descripcion": {
           "es": "Banano de exportación cultivado orgánicamente. Calibre perfecto, textura cremosa y dulzura natural que conquista los mercados más exigentes del mundo.",
           "en": "Organically grown export banana. Perfect caliber, creamy texture and natural sweetness that conquers the most demanding markets in the world."
