@@ -1,0 +1,148 @@
+{
+  "empresa": {
+    "nombre": "DCEvel Corp",
+    "logo": "images/logo.png",
+    "whatsapp": "593412345678",
+    "email": "export@dcevelcorpec.com",
+    "telefono": "+593 4 600 7000",
+    "direccion": { "es": "Av. Francisco de Orellana, Guayaquil, Ecuador", "en": "Francisco de Orellana Ave, Guayaquil, Ecuador" },
+    "redes": {
+      "facebook": "https://facebook.com/dcevelcorpec",
+      "instagram": "https://instagram.com/dcevelcorpec",
+      "linkedin": "https://linkedin.com/company/dcevelcorp"
+    }
+  },
+  "hero": {
+    "etiqueta": { "es": "EXCELENCIA EN EXPORTACIÓN", "en": "EXPORT EXCELLENCE" },
+    "titulo": { "es": "Frutas premium que cruzan fronteras", "en": "Premium fruits that cross borders" },
+    "subtitulo": {
+      "es": "Somos una empresa ecuatoriana dedicada a la exportación de frutas tropicales de primera calidad. Cada envío refleja nuestro compromiso con la excelencia y la sostenibilidad.",
+      "en": "We are an Ecuadorian company dedicated to the export of first-class tropical fruits. Each shipment reflects our commitment to excellence and sustainability."
+    },
+    "imagen": "images/hero.jpg",
+    "boton1": { "es": "Explorar productos", "en": "Explore products" },
+    "boton2": { "es": "Solicitar cotización", "en": "Request a quote" }
+  },
+  "estadisticas": [
+    { "valor": "12+", "texto": { "es": "Años en el mercado", "en": "Years in the market" } },
+    { "valor": "25+", "texto": { "es": "Destinos globales", "en": "Global destinations" } },
+    { "valor": "100%", "texto": { "es": "Trazabilidad", "en": "Traceability" } },
+    { "valor": "40K", "texto": { "es": "Toneladas exportadas", "en": "Tons exported" } }
+  ],
+  "productos": {
+    "etiqueta": { "es": "CATÁLOGO", "en": "CATALOG" },
+    "titulo": { "es": "Nuestra selección premium", "en": "Our premium selection" },
+    "subtitulo": {
+      "es": "Frutas cultivadas bajo los más altos estándares de calidad en las tierras fértiles del Ecuador.",
+      "en": "Fruits grown under the highest quality standards in the fertile lands of Ecuador."
+    },
+    "lista": [
+      {
+        "nombre": { "es": "Banano Cavendish", "en": "Cavendish Banana" },
+        "imagen": "images/banana.jpg",
+        "emoji": "🍌",
+        "descripcion": {
+          "es": "Banano de exportación cultivado orgánicamente. Calibre perfecto, textura cremosa y dulzura natural que conquista los mercados más exigentes del mundo.",
+          "en": "Organically grown export banana. Perfect caliber, creamy texture and natural sweetness that conquers the most demanding markets in the world."
+        },
+        "caracteristicas": [
+          { "es": "Orgánico certificado", "en": "Certified organic" },
+          { "es": "Calibre 39-46", "en": "Caliber 39-46" },
+          { "es": "Empaque premium", "en": "Premium packaging" },
+          { "es": "Cadena de frío", "en": "Cold chain" }
+        ]
+      },
+      {
+        "nombre": { "es": "Plátano Verde", "en": "Green Plantain" },
+        "imagen": "images/platano.jpg",
+        "emoji": "🥒",
+        "descripcion": {
+          "es": "Plátano barraganete de gran tamaño, ideal para mercados que buscan calidad y consistencia. Textura firme y sabor auténtico del trópico ecuatoriano.",
+          "en": "Large barraganete plantain, ideal for markets seeking quality and consistency. Firm texture and authentic Ecuadorian tropical flavor."
+        },
+        "caracteristicas": [
+          { "es": "Barraganete premium", "en": "Premium Barraganete" },
+          { "es": "Calibre superior", "en": "Superior caliber" },
+          { "es": "Vida útil extendida", "en": "Extended shelf life" },
+          { "es": "Trazabilidad total", "en": "Full traceability" }
+        ]
+      },
+      {
+        "nombre": { "es": "Piña MD2 Golden", "en": "MD2 Golden Pineapple" },
+        "imagen": "images/pina.jpg",
+        "emoji": "🍍",
+        "descripcion": {
+          "es": "Piña extra dulce variedad MD2 Golden, reconocida internacionalmente por su sabor excepcional, aroma penetrante y consistencia perfecta.",
+          "en": "Extra sweet MD2 Golden pineapple, internationally recognized for its exceptional flavor, penetrating aroma and perfect consistency."
+        },
+        "caracteristicas": [
+          { "es": "MD2 Golden Select", "en": "MD2 Golden Select" },
+          { "es": "16+ Brix", "en": "16+ Brix" },
+          { "es": "Corona uniforme", "en": "Uniform crown" },
+          { "es": "Export grade", "en": "Export grade" }
+        ]
+      }
+    ]
+  },
+  "nosotros": {
+    "etiqueta": { "es": "QUIÉNES SOMOS", "en": "WHO WE ARE" },
+    "titulo": { "es": "Excelencia desde el corazón del Ecuador", "en": "Excellence from the heart of Ecuador" },
+    "parrafos": [
+      {
+        "es": "DCEvel Corp es una empresa ecuatoriana con más de una década de experiencia en la exportación de frutas tropicales premium. Nuestras operaciones abarcan desde las fincas productoras hasta los puertos de embarque internacional.",
+        "en": "DCEvel Corp is an Ecuadorian company with over a decade of experience in premium tropical fruit export. Our operations span from producing farms to international shipping ports."
+      },
+      {
+        "es": "Trabajamos de la mano con agricultores locales, garantizando prácticas sostenibles y precios justos que benefician a las comunidades y al medio ambiente.",
+        "en": "We work hand in hand with local farmers, ensuring sustainable practices and fair prices that benefit communities and the environment."
+      }
+    ],
+    "valores": [
+      { "icono": "◆", "titulo": { "es": "Excelencia", "en": "Excellence" }, "desc": { "es": "Estándares internacionales de calidad en cada fruta que exportamos.", "en": "International quality standards in every fruit we export." } },
+      { "icono": "◆", "titulo": { "es": "Integridad", "en": "Integrity" }, "desc": { "es": "Transparencia y honestidad en cada relación comercial.", "en": "Transparency and honesty in every business relationship." } },
+      { "icono": "◆", "titulo": { "es": "Innovación", "en": "Innovation" }, "desc": { "es": "Tecnología de punta en procesos de cosecha, empaque y logística.", "en": "Cutting-edge technology in harvesting, packaging and logistics." } },
+      { "icono": "◆", "titulo": { "es": "Responsabilidad", "en": "Responsibility" }, "desc": { "es": "Compromiso con el medio ambiente y las comunidades locales.", "en": "Commitment to the environment and local communities." } }
+    ]
+  },
+  "proceso": {
+    "etiqueta": { "es": "PROCESO", "en": "PROCESS" },
+    "titulo": { "es": "Cadena de valor integral", "en": "Integrated value chain" },
+    "subtitulo": {
+      "es": "Control total desde la semilla hasta el contenedor refrigerado.",
+      "en": "Total control from seed to refrigerated container."
+    },
+    "pasos": [
+      { "num": "01", "titulo": { "es": "Producción", "en": "Production" }, "desc": { "es": "Fincas propias y aliadas con certificación orgánica internacional.", "en": "Own and allied farms with international organic certification." } },
+      { "num": "02", "titulo": { "es": "Selección", "en": "Selection" }, "desc": { "es": "Control de calidad con estándares europeos y norteamericanos.", "en": "Quality control with European and North American standards." } },
+      { "num": "03", "titulo": { "es": "Procesamiento", "en": "Processing" }, "desc": { "es": "Plantas de empaque climatizadas con tecnología de última generación.", "en": "Climate-controlled packing plants with state-of-the-art technology." } },
+      { "num": "04", "titulo": { "es": "Logística", "en": "Logistics" }, "desc": { "es": "Cadena de frío ininterrumpida con monitoreo GPS en tiempo real.", "en": "Uninterrupted cold chain with real-time GPS monitoring." } },
+      { "num": "05", "titulo": { "es": "Distribución", "en": "Distribution" }, "desc": { "es": "Red de distribución en más de 25 países de América, Europa y Asia.", "en": "Distribution network in over 25 countries in the Americas, Europe and Asia." } },
+      { "num": "06", "titulo": { "es": "Posventa", "en": "After-sales" }, "desc": { "es": "Seguimiento continuo y atención personalizada a cada cliente.", "en": "Continuous follow-up and personalized attention to each client." } }
+    ]
+  },
+  "galeria": {
+    "etiqueta": { "es": "GALERÍA", "en": "GALLERY" },
+    "titulo": { "es": "Nuestra operación en imágenes", "en": "Our operation in images" },
+    "subtitulo": {
+      "es": "Un vistazo a las instalaciones, procesos y equipo humano de DCEvel Corp.",
+      "en": "A glimpse at DCEvel Corp's facilities, processes and human team."
+    },
+    "imagenes": [
+      { "src": "images/galeria-1.jpg", "texto": { "es": "Fincas bananeras", "en": "Banana farms" } },
+      { "src": "images/galeria-2.jpg", "texto": { "es": "Cosecha selectiva", "en": "Selective harvest" } },
+      { "src": "images/galeria-3.jpg", "texto": { "es": "Laboratorio de calidad", "en": "Quality laboratory" } },
+      { "src": "images/galeria-4.jpg", "texto": { "es": "Planta de empaque", "en": "Packing plant" } },
+      { "src": "images/galeria-5.jpg", "texto": { "es": "Puerto de Guayaquil", "en": "Port of Guayaquil" } },
+      { "src": "images/galeria-6.jpg", "texto": { "es": "Contenedores reefer", "en": "Reefer containers" } }
+    ]
+  },
+  "certificaciones": ["Global G.A.P.", "USDA Organic", "Rainforest Alliance", "Fair Trade", "ISO 22000", "BRC"],
+  "contacto": {
+    "etiqueta": { "es": "CONTACTO", "en": "CONTACT" },
+    "titulo": { "es": "Hablemos de negocios", "en": "Let's talk business" },
+    "subtitulo": {
+      "es": "¿Busca un proveedor confiable de frutas tropicales premium? Complete el formulario y nuestro equipo comercial le contactará en menos de 24 horas.",
+      "en": "Looking for a reliable premium tropical fruit supplier? Fill out the form and our commercial team will contact you within 24 hours."
+    }
+  }
+}
